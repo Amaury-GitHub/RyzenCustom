@@ -4,7 +4,7 @@
 [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj)<br>
 调用了EnergyStar_v1.0.0<br>
 [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar)<br>
-EnergyStar.exe太大了,未上传<br>
+EnergyStar.exe太大了,未上传,release包含所有文件<br>
 <br>
 预设了3种模式<br>
 * 能效模式:
