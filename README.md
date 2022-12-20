@@ -21,9 +21,10 @@
 * * 温度限制为 85 ℃
 * * 关闭 EnergyStar
 * * 打开 睿频
-<br>
+<br><br>
+# 截图<br>
 右键菜单<br>
-![image1](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG2.png)<br>
+![image](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG2.png)<br>
 左键通知<br>
-![image2](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG1.png)<br>
+![image](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG1.png)<br>
 <br>
