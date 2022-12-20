@@ -23,7 +23,7 @@
 * * 打开 睿频
 <br>
 右键菜单<br>
-![image](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG2.png)<br>
+![image1](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG2.png)<br>
 左键通知<br>
-![image](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG1.png)<br>
+![image2](https://github.com/Amaury-GitHub/RyzenCustom/blob/main/README_IMG/IMG1.png)<br>
 <br>
